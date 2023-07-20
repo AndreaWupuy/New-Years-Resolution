@@ -1,0 +1,29 @@
+Suggested Questions:
+
+A. Category:
+A.1. What is the most popular resolution category? Least popular?
+A.2. What is the most popular resolution category by state?
+A.3. What is the least popular resolution category by state?
+A.4. Which resolution category was retweeted the most? Least?
+A.5. What is the most popular resolution topic?
+A.6. What is the least popular resolution topic?
+A.7. Which resolution topic was retweeted the most?
+A.8. Which resolution topic was retweeted the least?
+
+B. Time
+B.1 Rounding to the nearest hour, what was the most popular hour of day to tweet? How many resolutions
+were tweeted?
+B.2 Rounding to the nearest hour, what was the most popular hour of day to tweet by State? How many
+resolutions were tweeted?
+B.3 What day was the most tweeted? How many resolutions were tweeted?
+
+C. State
+C.1 What U.S. State tweeted the highest number of NYE resolutions?
+C.2 What U.S. State tweeted the least number of NYE resolutions?
+
+D. Gender
+D.1 Who tweeted the most?
+D.2. What twitter category was the most tweeted by gender?
+D.3. What twitter category was the most retweeted by gender?
+D.4. What topic was the most tweeted by gender?
+D.5. What topic was the least tweeted by gender?
