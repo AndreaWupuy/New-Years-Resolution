@@ -1,7 +1,0 @@
-About the data:
-
-There are more than 4,000 tweets from 2015 originating from different parts of the United States, all related to New Year's resolutions, 
-included in the dataset. After a first glance at the data and reviewing the suggested questions, the tweets analysis was divided into 4 
-sections: Category, Time, State and Gender. Through the dataset, 15 questions are answered through 2 to 8 insights in each section.
-
-The data was recolected from Maven Analytics Data Playgroud section: https://www.mavenanalytics.io/data-playground
